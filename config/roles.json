@@ -1,0 +1,24 @@
+{
+  "roles": [
+    {
+      "name": "root",
+      "register": true
+    },
+    {
+      "name": "user",
+      "register": true
+    },
+    {
+      "name": "admin",
+      "register": true
+    },
+    {
+      "name": "doctor",
+      "register": true
+    },
+    {
+      "name": "receptionist",
+      "register": true
+    }
+  ]
+}
